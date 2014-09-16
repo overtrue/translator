@@ -1,0 +1,23 @@
+{
+	"name": "overtrue/Translator",
+	"description": "PHP translator.",
+	"keywords": [
+		"PHP", 
+		"translator", 
+		"i18n",
+		"localize"
+	],
+	"homepage": "https://github.com/overtrue/Translator",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Carlos
+            "homepage": "http://github.com/overtrue"
+        }
+    ],
+    "autoload": {
+        "psr-4": { 
+        	"": "src/"
+        }
+    }
+}
