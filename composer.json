@@ -11,13 +11,13 @@
 	"license": "MIT",
 	"authors": [
         {
-            "name": "Carlos,
-            "homepage": "http://github.com/overtrue"
+            "name": "Carlos",
+            "homepage": "https://github.com/overtrue"
         }
-    ],
-    "autoload": {
-        "psr-4": { 
-        	"": "src/"
-        }
-    }
+	],
+	"autoload": {
+	    "psr-4": { 
+	     	"": "src/"
+	    }
+	}
 }
