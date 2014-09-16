@@ -1,6 +1,6 @@
 {
-	"name": "overtrue/Translator",
-	"description": "PHP translator.",
+	"name": "overtrue/translator",
+	"description": "PHP localize tool.",
 	"keywords": [
 		"PHP", 
 		"translator", 
@@ -11,7 +11,7 @@
 	"license": "MIT",
 	"authors": [
         {
-            "name": "Carlos
+            "name": "Carlos,
             "homepage": "http://github.com/overtrue"
         }
     ],
