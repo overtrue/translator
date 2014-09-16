@@ -31,6 +31,8 @@ PHP多语言支持工具
 
 ```php
  <?php
+ 
+ require 'path/to/Overtrue/Translator.php';
 
  use Overtrue\Translator;
 
