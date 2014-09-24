@@ -7,7 +7,7 @@
 		"i18n",
 		"localize"
 	],
-	"homepage": "https://github.com/overtrue/Translator",
+	"homepage": "https://github.com/overtrue/translator",
 	"license": "MIT",
 	"authors": [
         {
@@ -17,7 +17,7 @@
 	],
 	"autoload": {
 	    "psr-4": { 
-	     	"": "src/"
+	     	"Overtrue\\": "src/Overtrue"
 	    }
 	}
 }
