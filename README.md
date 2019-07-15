@@ -22,7 +22,7 @@ PHP多语言支持工具
  <?php
  return array(
     // key => pattern
-    'user_not_exists' => 'use {name} not exists.',
+    'user_not_exists' => 'user {name} not exists.',
     ...
  );
  ```
