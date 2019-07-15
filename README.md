@@ -22,7 +22,7 @@ PHP多语言支持工具
  <?php
  return array(
     // key => pattern
-    'user_not_exists' => 'use {name} not exists.',
+    'user_not_exists' => 'user {name} not exists.',
     ...
  );
  ```
@@ -41,11 +41,11 @@ PHP多语言支持工具
  //格式化语言包里的key
  $username = 'overtrue';
  echo $translator->trans('user_not_exists.', ['name' => $username]);
- // output: 'use overtrue not exists.'
+ // output: 'user overtrue not exists.'
 
  //格式化指定的字符串：
  echo $translator->format('user {name} not exists.', ['name' => $username]);
- // output: 'use overtrue not exists.'
+ // output: 'user overtrue not exists.'
 
 ```
 
